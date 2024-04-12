@@ -1,8 +1,8 @@
 {
   "posts": [
     {
-      "id": 1,
-      "hash": "6f96f09dfddca9d0fd3acdde64fbde96b0da178a13c4802d314edaaddda64fb1"
+      "SignatureHash": "",
+      "BaseHash": "6f96f09dfddca9d0fd3acdde64fbde96b0da178a13c4802d314edaaddda64fb1"
     }
   ],
   "profile": {
