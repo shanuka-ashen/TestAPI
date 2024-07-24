@@ -1,11 +1,4 @@
 {
-  "data": [
-    {
-      "SignatureHash": "b72e0cda040aaa9954e7ab8fcecc0c16e5816b98979a83b220bf9a0a4a01591e",
-      "BaseHash": "28ec3e7173290ba71926601962e10fa3e949dc191f13eeb19dfa4f5f2e9f29f4"
-    }
-  ],
-  "profile": {
-    "name": "ShanukaAshen"
-  }
+  "id": 1,
+  "value": "It is 24th of July 2024"
 }
